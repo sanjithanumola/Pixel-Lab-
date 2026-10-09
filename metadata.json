@@ -1,0 +1,6 @@
+{
+  "name": "PixelLab AI - Professional Browser Image Editor",
+  "description": "Desktop-class browser photo editor featuring non-destructive adjustments, filter presets, layers, cropping, text, shapes, brush, and AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
